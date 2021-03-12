@@ -24,7 +24,7 @@ pi = 3.14
 luas_lingkaran = pi * (r ** 2)
 
 #menampilkan hasil perhitungan
-print("Luas lingkara:" ,luas_lingkaran)
+print("Luas lingkaran:" ,luas_lingkaran)
 
 ##menghitung luas kubus
 #nama program
