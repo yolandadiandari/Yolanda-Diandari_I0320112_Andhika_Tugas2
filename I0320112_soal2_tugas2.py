@@ -1,3 +1,4 @@
+#identitas diri
 nama_depan = "Yolanda"
 nama_belakang = "Diandari"
 
@@ -31,6 +32,7 @@ motto_hidup = "I come, i see, i get it"
 umur_dalambulan = ((tanggal_sekarang - tanggal_lahir) / 30 ) + ((bulan_sekarang - bulan_lahir)) + ((tahun_sekarang-tahun_lahir) * 12)
 umur_dalamtahun = ((tanggal_sekarang - tanggal_lahir) / 365) + ((bulan_sekarang - bulan_lahir)/12) + (tahun_sekarang - tahun_lahir)
 
+#menampilkan identitas
 print("-----DATA DIRI-----")
 print("Nama:" ,nama_depan, nama_belakang)
 print("NIM: " ,nim)
