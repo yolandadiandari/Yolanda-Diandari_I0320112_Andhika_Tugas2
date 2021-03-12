@@ -10,14 +10,14 @@ lebar = float(input("Masukkan lebar:" ))
 luas_persegi_panjang = panjang * lebar
 
 #menampilkan hasil perhitungan
-print("Luas persegi panjang: " ,luas_persegi_panjang)
+print("Luas persegi panjang:" ,luas_persegi_panjang)
 
 ##menghitung luas lingkaran
 #nama program
 print("Menentukan Luas Lingkaran")
 
 #input ukuran jari-jari dan pi
-r = float(input("Masukkan jari-jari"))
+r = float(input("Masukkan jari-jari:"))
 pi = 3.14
 
 #proses perhitungan
@@ -31,7 +31,7 @@ print("Luas lingkara:" ,luas_lingkaran)
 print("Menentukan Luas Kubus")
 
 #input ukuran sisi
-s = float(input("Masukkan panjang sisi :" ))
+s = float(input("Masukkan panjang sisi:" ))
 
 #proses perhitungan
 luas_kubus = 6 * (s ** 2)
