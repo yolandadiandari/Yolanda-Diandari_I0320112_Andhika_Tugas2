@@ -17,7 +17,7 @@ print("Luas persegi panjang:" ,luas_persegi_panjang)
 print("Menentukan Luas Lingkaran")
 
 #input ukuran jari-jari dan pi
-r = float(input("Masukkan jari-jari:"))
+r = float(input("Masukkan jari-jari:" ))
 pi = 3.14
 
 #proses perhitungan
